@@ -41,8 +41,8 @@ canvas {
 .heart {
 	position: relative;
 	margin: auto;
-	height: 750px;
-	width: 750px;
+	height: 450px;
+	width: 450px;
 }
 
 .animate {
@@ -93,7 +93,7 @@ canvas {
 }
 
 .tn_xuxi {
-	width: 500px;
+	width: 450px;
 	height: auto;
 	border-radius: 50%;
 	animation: zoom 3s infinite
